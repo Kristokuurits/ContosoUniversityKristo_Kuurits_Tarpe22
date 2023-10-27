@@ -1,0 +1,169 @@
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.csproj.AssemblyReference.cache
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.AssemblyInfoInputs.cache
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.AssemblyInfo.cs
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.RazorAssemblyInfo.cache
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.RazorAssemblyInfo.cs
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\appsettings.Development.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\appsettings.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\ContosoUniversity.staticwebassets.runtime.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\ContosoUniversity.exe
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\ContosoUniversity.deps.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\ContosoUniversity.runtimeconfig.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\ContosoUniversity.dll
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net6.0\ContosoUniversity.pdb
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\staticwebassets\msbuild.build.ContosoUniversity.props
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\staticwebassets.build.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\staticwebassets.development.json
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\scopedcss\bundle\ContosoUniversity.styles.css
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\scopedcss\projectbundle\ContosoUniversity.bundle.scp.css
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.dll
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\refint\ContosoUniversity.dll
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.pdb
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ContosoUniversity.genruntimeconfig.cache
+G:\Users\K\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net6.0\ref\ContosoUniversity.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\appsettings.Development.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\appsettings.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\ContosoUniversity.staticwebassets.runtime.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\ContosoUniversity.exe
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\ContosoUniversity.deps.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\ContosoUniversity.runtimeconfig.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\ContosoUniversity.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\ContosoUniversity.pdb
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Humanizer.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.csproj.AssemblyReference.cache
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.AssemblyInfoInputs.cache
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.AssemblyInfo.cs
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.RazorAssemblyInfo.cache
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.RazorAssemblyInfo.cs
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\staticwebassets\msbuild.build.ContosoUniversity.props
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\staticwebassets.build.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\staticwebassets.development.json
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\scopedcss\bundle\ContosoUniversity.styles.css
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\scopedcss\projectbundle\ContosoUniversity.bundle.scp.css
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.csproj.CopyComplete
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\refint\ContosoUniversity.dll
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.pdb
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ContosoUniversity.genruntimeconfig.cache
+G:\Users\K\source\repos\ContosoUniversityTARpe21\clone tarpe22\ContosoUniversityTARpe22\obj\Debug\net6.0\ref\ContosoUniversity.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\appsettings.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\ContosoUniversity.staticwebassets.runtime.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\ContosoUniversity.exe
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\ContosoUniversity.deps.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\ContosoUniversity.runtimeconfig.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\ContosoUniversity.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\ContosoUniversity.pdb
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Humanizer.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\scopedcss\projectbundle\ContosoUniversity.bundle.scp.css
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.csproj.CopyComplete
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\refint\ContosoUniversity.dll
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.pdb
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\opilane\source\repos\ContosoUniversityKristo_Kuurits_Tarpe22\obj\Debug\net6.0\ref\ContosoUniversity.dll
